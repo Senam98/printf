@@ -465,7 +465,7 @@ All the above options work well together.
 
 ## Authors
 
-- **Gordon Enam Kudzo** - [senam98](https://github.com/senam98)
+- **Gordon Enam Kudzo** - [Senam98](https://github.com/senam98)
 - **Sorho Yves** - [Sorho Yves](https://github.com)
 
 
